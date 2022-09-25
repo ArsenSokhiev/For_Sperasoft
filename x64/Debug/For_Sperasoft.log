@@ -1,0 +1,3 @@
+﻿  For_Sperasoft.cpp
+C:\Users\Arsen\Documents\source\repos\For_Sperasoft\For_Sperasoft\For_Sperasoft.cpp(116,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  For_Sperasoft.vcxproj -> C:\Users\Arsen\Documents\source\repos\For_Sperasoft\x64\Debug\For_Sperasoft.exe
